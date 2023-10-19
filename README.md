@@ -14,3 +14,4 @@ Me llamo Constanza, pero me gusta que me digan Connie. Soy desarrolladora web y 
 🔗 **LinkedIn:** [www.linkedin.com/in/constanza-latorre-cid-a5a5b7194](https://www.linkedin.com/in/constanza-latorre-cid-a5a5b7194)
 - 📧 **Email:** [constanzalatorrecid@gmail.com](constanzalatorrecid@gmail.com)
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=connielc1&show_icons=true&theme=dracula)
