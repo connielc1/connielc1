@@ -1,5 +1,5 @@
 ## Holaaaa  ¿Qué tal? :woman_technologist:
-
+<img width="300" align="right" src="https://gifdb.com/images/high/winona-ryder-goth-k1ztyyfiek0pdspt.gif">
 
 ### About me 🦇:
 Me llamo Constanza, pero me gusta que me digan Connie. Soy desarrolladora web y licenciada en Literatura. Me encanta aprender diversas cosas y siempre busco la forma de adquirir conocimiento constante en los estudios que he podido desarrollar.
