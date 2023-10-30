@@ -3,7 +3,7 @@
 
 ### About me 🦇:
 Me llamo Constanza, pero me gusta que me digan Connie. Soy desarrolladora web y licenciada en Literatura. Me encanta aprender diversas cosas y siempre busco la forma de adquirir conocimiento constante en los estudios que he podido desarrollar.
-- Me encantan los videojuegos :video_game: y leer libros :books:
+- Me encantan los videojuegos :video_game: y leer:books:
 - Soy parte de la subcultura gótica :coffin:
 - Me gustan mucho los animales :paw_prints:
 
