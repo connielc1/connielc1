@@ -8,7 +8,7 @@ Me llamo Constanza, pero me gusta que me digan Connie. Soy desarrolladora web y 
 - Me gustan mucho los animales :paw_prints:
 
 # 💻 Tech Stack:
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,github,git,vscode&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,github,git,vscode,react&theme=dark)](https://skillicons.dev)
 
 # 📬 Contacto:
 🔗 **LinkedIn:** [www.linkedin.com/in/constanza-latorre-cid-a5a5b7194](https://www.linkedin.com/in/constanza-latorre-cid-a5a5b7194)
